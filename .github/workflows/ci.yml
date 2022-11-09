@@ -12,3 +12,4 @@ jobs:
       run: |
         echo test the checkout action,
         ls -a
+        pwd
